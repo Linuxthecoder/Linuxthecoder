@@ -24,7 +24,7 @@ Alias   : Linuxthecoder
 Role    : Ethical Hacker | Full-Stack Developer | <a href="https://nexora-com.onrender.com" target="_blank" rel="noopener noreferrer">Startup CEO</a> | AI/ML
 Focus   : Cybersecurity tools, AI integrations, secure platforms, and offensive programming.
 OS      : Kali Linux, Parrot OS, BlackArch
-Skills  : Deep Web Recon | Tool Dev | AI Systems | Backend Architect
+Skills  : Deep Web Recon | Tool Dev | AI Systems | Backend Architect | Full Stack Dev
 </pre>
 
 
