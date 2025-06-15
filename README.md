@@ -1,5 +1,8 @@
 
-<<h1 align="center">## &gt;&gt; ByteSpecter &lt;&lt; ##</h1>
+![logo](https://github.com/Linuxthecoder/Linuxthecoder/blob/main/ChatGPT%20Image%20Jun%2015%2C%202025%2C%2006_23_05%20AM.png)
+
+
+<h1 align="center">## &gt;&gt; ByteSpecter &lt;&lt; ##</h1>
 
 <br>
 
