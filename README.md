@@ -7,8 +7,9 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=3AF7F3&center=true&vCenter=true&lines=AI%2FML+Developer;C%2FC%2B%2B+Game+Dev;Full+Stack+Developer;CEO+of+Nexora;OSINT+%7C+Tool+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=3AF7F3&center=true&vCenter=true&lines=Learning+AI%2FML;Learning+C+%26+C%2B%2B;Full+Stack+Developer;CEO+of+Nexora;OSINT+%7C+Tool+Builder" alt="Typing SVG" />
 </p>
+
 
 
 ---
