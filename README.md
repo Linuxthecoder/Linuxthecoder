@@ -1,97 +1,105 @@
+<div align="center">
 
-![logo](https://github.com/Linuxthecoder/Linuxthecoder/blob/main/ChatGPT%20Image%20Jun%2015%2C%202025%2C%2006_23_05%20AM.png)
+<img src="https://github.com/Linuxthecoder/Linuxthecoder/blob/main/ChatGPT%20Image%20Jun%2015%2C%202025%2C%2006_23_05%20AM.png" width="120" alt="ByteSpecter Logo" />
 
+# `ByteSpecter`
 
-<h1 align="center">## &gt;&gt; ByteSpecter &lt;&lt; ##</h1>
-
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=3AF7F3&center=true&vCenter=true&lines=Learning+AI%2FML;Learning+C+%26+C%2B%2B;Full+Stack+Developer;CEO+of+Nexora;OSINT+%7C+Tool+Builder" alt="Typing SVG" />
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=3AF7F3&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;C+%26+C%2B%2B+Systems+Programmer;Full+Stack+Developer;CEO+%40+Nexora+AI;OSINT+%7C+Offensive+Tool+Builder;Ethical+Hacker" alt="Typing SVG" />
 </p>
 
+[![NexVerse](https://img.shields.io/badge/NexVerse-Connect-3AF7F3?style=for-the-badge&logo=matrix&logoColor=black)](https://nexverse-net.onrender.com/)
+[![Aura AI](https://img.shields.io/badge/Aura_AI-Early_Access-00FFB2?style=for-the-badge&logoColor=black)](https://aura-early-access.onrender.com)
+[![Nexora](https://img.shields.io/badge/Nexora-CEO-FF4C60?style=for-the-badge&logoColor=white)](https://nexora-com.onrender.com)
 
+</div>
 
 ---
 
-### 💀 About Me
+## `$ whoami`
+
 ```bash
-> whoami
+Username : ByteSpecter
+Alias    : Linuxthecoder
+Role     : Ethical Hacker · Full-Stack Developer · Startup CEO · AI/ML Engineer
+Focus    : Cybersecurity tools, AI integrations, secure platforms & offensive programming
+OS       : Kali Linux · Parrot OS · BlackArch
 ```
 
-<pre>
-Username: ByteSpecter
-Alias   : Linuxthecoder
-Role    : Ethical Hacker | Full-Stack Developer | <a href="https://nexora-com.onrender.com" target="_blank" rel="noopener noreferrer">Startup CEO</a> | AI/ML
-Focus   : Cybersecurity tools, AI integrations, secure platforms, and offensive programming.
-OS      : Kali Linux, Parrot OS, BlackArch
-Skills  : Deep Web Recon | Tool Dev | AI Systems | Backend Architect | Full Stack Dev
-</pre>
-
-
----
-
-[ What I Can Do ]
-- Languages     : Python, C, JS, Bash
-- AI/ML         : TensorFlow, Transformers, SkLearn
-- CyberSec      : Hydra, Wireshark, BurpSuite, Metasploit, Social Engineering and more..
-- Backend       : Node.js, Express.js, MongoDB
-- Frontend      : React, Vite, Next.js, UX
-- OS & Tools    : Kali, Parrot OS, Git, VS Code, Vim
-
----
-### Featured Projects
-
-- <img src="https://github.com/Linuxthecoder/NexVerse-Encrypted-Chat-Application/raw/main/frontend/public/favicon1.png" width="20"/> &nbsp;
-  <a href="https://nexverse-net.onrender.com" target="_blank" rel="noopener noreferrer">NexVerse</a> — AI Secure Chat Platform  
-
-- <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="20"/> &nbsp;
-  <a href="https://github.com/Linuxthecoder/C-Terminal-Game" target="_blank" rel="noopener noreferrer">C/C++ Game</a> —  Treasure Maze Game
-
-- <img src="https://github.com/Linuxthecoder/AI-phishing-dector/blob/main/AI%20phishing-detector/image.jpg" width="20"/> &nbsp;
-  <a href="https://github.com/Linuxthecoder/AI-Phishing-Detector" target="_blank" rel="noopener noreferrer">AI Phishing Detector</a> — Trained for cyber-awareness  
-
-- <img src="https://github.com/Linuxthecoder/Aura-AI-Early-Access-site/raw/main/public/Nexora%20(1).png" width="20"/> &nbsp;
-  <a href="https://aura-early-access.onrender.com" target="_blank" rel="noopener noreferrer">Aura AI</a> — Human-like assistant built with raw code & next gen AI
-
- - <img src="https://github.com/Linuxthecoder/Tool-s-and-Resources-/blob/main/image%20(1).jpg" width="20"/> &nbsp;
-  <a href="https://github.com/Linuxthecoder/Tool-s-and-Resources-/tree/main" target="_blank" rel="noopener noreferrer">Tools and Resources</a> - for hacking like malware template's and password list's and more 
-
-  
-
-
----
-
-## Current Status
-
-### Building - Aura ai 
-
-
-**<img src="https://github.com/Linuxthecoder/Aura-AI-Early-Access-site/raw/main/public/Nexora%20(1).png" width="20"/> &nbsp; Adaptive Unified Recursive Algorithm** — Aura.AI. Processes and generates intelligent responses
-Uses recursive learning for continuous improvement
-Adapts to new information in real-time
-Handles complex tasks with cutting-edge AI principles
-
- **Get AURA.AI early access:**
-
-🔗 [Early access](https://aura-early-access.onrender.com)
-
-
-
----
-
-<h3 align="center">🤝 Connect With Me on NexVerse</h3>
-
-<p align="center">
-  <a href="https://nexverse-net.onrender.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/Linuxthecoder/NexVerse-Encrypted-Chat-Application/raw/main/frontend/public/favicon1.png" width="50" alt="NexVerse Logo"/>
-  </a>
-</p>
-
-
----
-
-### 🧠 My Philosophy
 > *"Code is poetry. Exploits are art. And the system... is mine to master."*
 
 ---
+
+## `$ cat skills.json`
+
+```json
+{
+  "languages"  : ["Python", "C", "C++", "JavaScript", "Bash"],
+  "ai_ml"      : ["TensorFlow", "Transformers", "Scikit-Learn"],
+  "security"   : ["Hydra", "Wireshark", "Burp Suite", "Metasploit", "Social Engineering"],
+  "backend"    : ["Node.js", "Express.js", "MongoDB"],
+  "frontend"   : ["React", "Vite", "Next.js"],
+  "tools"      : ["Git", "VS Code", "Vim", "Kali", "Parrot OS"]
+}
+```
+
+---
+
+## `$ ls -la projects/`
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Aura AI**](https://aura-early-access.onrender.com) 🤖 | Human-like AI assistant — built from raw code & next-gen AI | Node.js · React · LLM |
+| [**NexVerse**](https://nexverse-com.vercel.app) 🔐 | Encrypted AI-powered secure chat platform | React · Express · MongoDB |
+| [**AI Phishing Detector**](https://github.com/Linuxthecoder/AI-Phishing-Detector) 🛡️ | Trained ML model for real-time cyber-threat awareness | Python · TensorFlow |
+| [**C/C++ Maze Game**](https://github.com/Linuxthecoder/C-Terminal-Game) 🎮 | Terminal-based treasure maze game | C / C++ |
+| [**Tools & Resources**](https://github.com/Linuxthecoder/Tool-s-and-Resources-/tree/main) ⚔️ | Curated offensive security toolkit & resource collection | Bash · Python |
+
+---
+
+## `$ status --current`
+
+### 🚧 Building: **Aura AI** — `v1.x`
+
+**A.U.R.A** — *Adaptive Unified Recursive Algorithm*
+
+Aura is Nexora's flagship AI product: a next-generation assistant engineered around recursive intelligence, real-time adaptation, and human-like response generation.
+
+- 🧠 Recursive learning for continuous self-improvement
+- ⚡ Real-time adaptation to new information
+- 🔒 Privacy-first architecture
+- 🤖 Complex task handling via cutting-edge AI principles
+
+**→ [Request Early Access](https://aura-early-access.onrender.com)**
+
+---
+
+## `$ cat stats.md`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Linuxthecoder&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=3AF7F3&icon_color=00FFB2&text_color=ffffff)
+&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linuxthecoder&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=3AF7F3&text_color=ffffff)
+
+</div>
+
+---
+
+## `$ connect --platform nexverse`
+
+<div align="center">
+
+*I don't do Twitter. I built my own network.*
+
+[![NexVerse](https://github.com/Linuxthecoder/NexVerse-Encrypted-Chat-Application/raw/main/frontend/public/favicon1.png)](https://nexverse-net.onrender.com/)
+
+**[→ Find me on NexVerse](https://nexverse-net.onrender.com/)**
+
+</div>
+
+---
+
+<div align="center">
+  <sub>© ByteSpecter · Nexora · Built different.</sub>
+</div>
