@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Linuxthecoder/Linuxthecoder/blob/main/ChatGPT%20Image%20Jun%2015%2C%202025%2C%2006_23_05%20AM.png" width="120" alt="ByteSpecter Logo" />
+<img src="https://github.com/Linuxthecoder/Linuxthecoder/blob/main/ChatGPT%20Image%20Jun%2015%2C%202025%2C%2006_23_05%20AM.png" width="1000" alt="ByteSpecter Logo" />
 
 # `ByteSpecter`
 
