@@ -1,11 +1,16 @@
 <div align="center">
 
-<img src="https://github.com/Linuxthecoder/Linuxthecoder/blob/main/ChatGPT%20Image%20Jun%2015%2C%202025%2C%2006_23_05%20AM.png" width="1000" alt="ByteSpecter Logo" />
-
-# `ByteSpecter`
+```
+██████╗ ██╗   ██╗████████╗███████╗███████╗██████╗ ███████╗ ██████╗████████╗███████╗██████╗
+██╔══██╗╚██╗ ██╔╝╚══██╔══╝██╔════╝██╔════╝██╔══██╗██╔════╝██╔════╝╚══██╔══╝██╔════╝██╔══██╗
+██████╔╝ ╚████╔╝    ██║   █████╗  ███████╗██████╔╝█████╗  ██║        ██║   █████╗  ██████╔╝
+██╔══██╗  ╚██╔╝     ██║   ██╔══╝  ╚════██║██╔═══╝ ██╔══╝  ██║        ██║   ██╔══╝  ██╔══██╗
+██████╔╝   ██║      ██║   ███████╗███████║██║     ███████╗╚██████╗   ██║   ███████╗██║  ██║
+╚═════╝    ╚═╝      ╚═╝   ╚══════╝╚══════╝╚═╝     ╚══════╝ ╚═════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
+```
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=3AF7F3&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;C+%26+C%2B%2B+Systems+Programmer;Full+Stack+Developer;CEO+%40+Nexora+AI;OSINT+%7C+Offensive+Tool+Builder;Ethical+Hacker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3500&pause=1000&color=3AF7F3&center=true&vCenter=true&width=540&lines=AI+%2F+ML+Engineer+%7C+Full+Stack+Developer;C+%26+C%2B%2B+Systems+Programmer;CEO+%40+Nexora+AI;OSINT+%7C+Offensive+Tool+Builder;Ethical+Hacker+%7C+Security+Researcher" alt="Typing SVG" />
 </p>
 
 [![NexVerse](https://img.shields.io/badge/NexVerse-Connect-3AF7F3?style=for-the-badge&logo=matrix&logoColor=black)](https://nexverse-net.onrender.com/)
@@ -18,15 +23,35 @@
 
 ## `$ whoami`
 
-```bash
-Username : ByteSpecter
+```yaml
+Name     : ByteSpecter
 Alias    : Linuxthecoder
-Role     : Ethical Hacker · Full-Stack Developer · Startup CEO · AI/ML Engineer
-Focus    : Cybersecurity tools, AI integrations, secure platforms & offensive programming
-OS       : Kali Linux · Parrot OS · BlackArch
+Title    : Startup CEO · Full-Stack Developer · Ethical Hacker · AI/ML Engineer
+Location : Remote — Always Online
+Network  : NexVerse (nexverse-net.onrender.com)
+Quote    : "Code is poetry. Exploits are art. And the system... is mine to master."
 ```
 
-> *"Code is poetry. Exploits are art. And the system... is mine to master."*
+---
+
+## `$ cat experience.md`
+
+### 🏢 Nexora AI — *Founder & CEO*
+`2024 — Present`
+
+- Architecting **Aura AI** (Adaptive Unified Recursive Algorithm) — a next-generation AI assistant platform engineered around recursive intelligence and real-time adaptation
+- Designed and built multi-service infrastructure across `nexora.ai`, `auth.nexora.ai`, and the Aura AI platform with full LLM engine integration
+- Implemented enterprise-grade API key pooling, four-layer rate limiting (Cloudflare edge → plan gate → Redis token bucket → global concurrency queue), and SSE streaming
+- Built **NexVerse** — an encrypted, AI-powered secure chat network
+- Leading product design, backend architecture, and go-to-market strategy
+
+### 🔐 Independent Security Researcher & Ethical Hacker
+`Ongoing`
+
+- Conduct offensive security research including network reconnaissance, OSINT operations, and vulnerability research
+- Built and maintain a personal home lab for hands-on pentesting: network scanning (Nmap), router configuration, and device interaction exercises
+- Developed an AI-powered phishing detection model using TensorFlow for real-time cyber-threat identification
+- Curated and maintain an offensive security toolkit (Tools & Resources repository)
 
 ---
 
@@ -34,12 +59,13 @@ OS       : Kali Linux · Parrot OS · BlackArch
 
 ```json
 {
-  "languages"  : ["Python", "C", "C++", "JavaScript", "Bash"],
-  "ai_ml"      : ["TensorFlow", "Transformers", "Scikit-Learn"],
-  "security"   : ["Hydra", "Wireshark", "Burp Suite", "Metasploit", "Social Engineering"],
-  "backend"    : ["Node.js", "Express.js", "MongoDB"],
-  "frontend"   : ["React", "Vite", "Next.js"],
-  "tools"      : ["Git", "VS Code", "Vim", "Kali", "Parrot OS"]
+  "languages"     : ["Python", "C", "C++", "JavaScript", "Bash"],
+  "ai_ml"         : ["TensorFlow", "Transformers", "Scikit-Learn", "LLM Integration", "Prompt Engineering"],
+  "cybersecurity" : ["Nmap", "Metasploit", "Burp Suite", "Hydra", "Wireshark", "OSINT", "Social Engineering"],
+  "backend"       : ["Node.js", "Express.js", "MongoDB", "Redis (Upstash)", "Convex", "REST APIs", "SSE Streaming"],
+  "frontend"      : ["React", "Vite", "Next.js", "IFC.js", "Three.js"],
+  "infrastructure": ["Cloudflare", "Render", "Vercel", "Clerk Auth", "Rate Limiting", "API Gateway Design"],
+  "environments"  : ["Kali Linux", "Parrot OS", "BlackArch", "Windows", "Git", "VS Code", "Vim"]
 }
 ```
 
@@ -47,28 +73,33 @@ OS       : Kali Linux · Parrot OS · BlackArch
 
 ## `$ ls -la projects/`
 
-| Project | Description | Stack |
-|---|---|---|
-| [**Aura AI**](https://aura-early-access.onrender.com) 🤖 | Human-like AI assistant — built from raw code & next-gen AI | Node.js · React · LLM |
-| [**NexVerse**](https://nexverse-com.vercel.app) 🔐 | Encrypted AI-powered secure chat platform | React · Express · MongoDB |
-| [**AI Phishing Detector**](https://github.com/Linuxthecoder/AI-Phishing-Detector) 🛡️ | Trained ML model for real-time cyber-threat awareness | Python · TensorFlow |
-| [**C/C++ Maze Game**](https://github.com/Linuxthecoder/C-Terminal-Game) 🎮 | Terminal-based treasure maze game | C / C++ |
-| [**Tools & Resources**](https://github.com/Linuxthecoder/Tool-s-and-Resources-/tree/main) ⚔️ | Curated offensive security toolkit & resource collection | Bash · Python |
+| # | Project | Description | Stack | Status |
+|---|---------|-------------|-------|--------|
+| 01 | [**Aura AI**](https://aura-early-access.onrender.com) 🤖 | Nexora's flagship AI assistant — recursive intelligence, real-time adaptation | Node.js · React · LLM | 🟡 v1.x Active |
+| 02 | [**NexVerse**](https://nexverse-net.onrender.com/) 🔐 | Encrypted AI-powered secure social chat platform | React · Express · MongoDB | 🟢 Live |
+| 03 | [**IFC BIM Agentic Studio**](https://github.com/Linuxthecoder/IFC-BIM-AGENTIC-STUDIO) 🏗️ | AI-powered BIM agent — "Cursor for BIM" | React · IFC.js · Claude API · IfcOpenShell · Convex | 🔧 In Dev |
+| 04 | [**AI Phishing Detector**](https://github.com/Linuxthecoder/AI-Phishing-Detector) 🛡️ | ML model for real-time phishing and cyber-threat detection | Python · TensorFlow | ✅ Complete |
+| 05 | [**C/C++ Maze Game**](https://github.com/Linuxthecoder/C-Terminal-Game) 🎮 | Terminal-based treasure maze game — pure systems programming | C / C++ | ✅ Complete |
+| 06 | [**Tools & Resources**](https://github.com/Linuxthecoder/Tool-s-and-Resources-/tree/main) ⚔️ | Curated offensive security toolkit and resource collection | Bash · Python | 🔄 Ongoing |
 
 ---
 
-## `$ status --current`
+## `$ cat current_build.md`
 
-### 🚧 Building: **Aura AI** — `v1.x`
-
+### 🚧 Aura AI — `v1.x`
 **A.U.R.A** — *Adaptive Unified Recursive Algorithm*
 
-Aura is Nexora's flagship AI product: a next-generation assistant engineered around recursive intelligence, real-time adaptation, and human-like response generation.
+Aura is Nexora's flagship product: a production-grade AI assistant built on recursive intelligence, real-time information adaptation, and human-like conversational depth.
 
-- 🧠 Recursive learning for continuous self-improvement
-- ⚡ Real-time adaptation to new information
-- 🔒 Privacy-first architecture
-- 🤖 Complex task handling via cutting-edge AI principles
+```
+Core Architecture:
+  ├── LLM Engine          →  Render (custom-hosted)
+  ├── Auth Service        →  auth.nexora.ai (Clerk)
+  ├── Database            →  MongoDB (documents) + Upstash Redis (hot data)
+  ├── Rate Limiting       →  4-layer: Cloudflare → Plan Gate → Redis → Concurrency Queue
+  ├── Streaming           →  SSE (Server-Sent Events)
+  └── API Gateway         →  Key pool management + per-plan enforcement
+```
 
 **→ [Request Early Access](https://aura-early-access.onrender.com)**
 
