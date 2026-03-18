@@ -14,7 +14,7 @@
 </p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-3AF7F3?style=for-the-badge&logo=vercel&logoColor=black)](https://muhammaddev.vercel.app/)
-[![NexVerse](https://img.shields.io/badge/NexVerse-Connect-00FFB2?style=for-the-badge&logo=matrix&logoColor=black)](https://nexverse-net.onrender.com/)
+[![NexVerse](https://img.shields.io/badge/NexVerse-Connect-00FFB2?style=for-the-badge&logo=matrix&logoColor=black)](https://nexverse-com.vercel.app/)
 [![Aura AI](https://img.shields.io/badge/Aura_AI-Early_Access-00D4AA?style=for-the-badge&logoColor=black)](https://aura-early-access.onrender.com)
 [![Nexora](https://img.shields.io/badge/Nexora-CEO-FF4C60?style=for-the-badge&logoColor=white)](https://nexora-com.onrender.com/index.html)
 
@@ -31,7 +31,7 @@ Title     : Startup CEO · Full-Stack Developer · Ethical Hacker · AI/ML Engin
 Location  : Remote — Always Online
 Company   : Nexora (nexora-com.onrender.com)
 Portfolio : muhammaddev.vercel.app
-Network   : NexVerse (nexverse-net.onrender.com)
+Network   : NexVerse (nexverse-com.vercel.app)
 Quote     : "Code is poetry. Exploits are art. And the system... is mine to master."
 ```
 
@@ -45,7 +45,7 @@ Quote     : "Code is poetry. Exploits are art. And the system... is mine to mast
 - Founded **Nexora** — a technology holding company and the parent organization behind multiple product divisions including Aura AI and NexVerse
 - Leading all product strategy, engineering architecture, and go-to-market execution across Nexora's divisions
 - Architecting **Aura AI** (Adaptive Unified Recursive Algorithm) — Nexora's flagship AI assistant product, engineered around recursive intelligence and real-time adaptation
-- Built **NexVerse** — Nexora's encrypted, AI-powered secure social chat platform
+- Built **NexVerse** — Nexora's encrypted, AI-powered secure social chat platform → [nexverse-com.vercel.app](https://nexverse-com.vercel.app/)
 - Overseeing full-stack development, infrastructure design, and growth across all active products
 
 ### 🔐 Independent Security Researcher & Ethical Hacker
@@ -79,8 +79,8 @@ Quote     : "Code is poetry. Exploits are art. And the system... is mine to mast
 | # | Project | Description | Stack | Status |
 |---|---------|-------------|-------|--------|
 | 01 | [**Aura AI**](https://aura-early-access.onrender.com) 🤖 | Nexora's flagship AI assistant — recursive intelligence, real-time adaptation | Node.js · React · LLM | 🟡 v1.x Active |
-| 02 | [**NexVerse**](https://nexverse-net.onrender.com/) 🔐 | Encrypted AI-powered secure social chat platform | React · Express · MongoDB | 🟢 Live |
-| 03 | **IFC BIM Agentic Studio** 🏗️ | AI-powered BIM agent — "Cursor for BIM". Bring natural language to building information modeling | React · IFC.js · Claude API · IfcOpenShell · Convex | 🔧 In Dev |
+| 02 | [**NexVerse**](https://nexverse-com.vercel.app/) 🔐 | Nexora's encrypted AI-powered secure social chat platform | React · Express · MongoDB | 🟢 Live |
+| 03 | **IFC BIM Agentic Studio** 🏗️ | A Nexora product — AI-powered BIM agent, "Cursor for BIM". Bring natural language to building information modeling | React · IFC.js · Claude API · IfcOpenShell · Convex | 🔧 In Dev |
 | 04 | [**AI Phishing Detector**](https://github.com/Linuxthecoder/AI-Phishing-Detector) 🛡️ | ML model for real-time phishing and cyber-threat detection | Python · TensorFlow | ✅ Complete |
 | 05 | [**C/C++ Maze Game**](https://github.com/Linuxthecoder/C-Terminal-Game) 🎮 | Terminal-based treasure maze game — pure systems programming | C / C++ | ✅ Complete |
 | 06 | [**Tools & Resources**](https://github.com/Linuxthecoder/Tool-s-and-Resources-/tree/main) ⚔️ | Curated offensive security toolkit and resource collection | Bash · Python | 🔄 Ongoing |
@@ -106,9 +106,9 @@ Quote     : "Code is poetry. Exploits are art. And the system... is mine to mast
 
 *I don't do Twitter. I built my own network.*
 
-[![NexVerse](https://github.com/Linuxthecoder/NexVerse-Encrypted-Chat-Application/raw/main/frontend/public/favicon1.png)](https://nexverse-net.onrender.com/)
+[![NexVerse](https://github.com/Linuxthecoder/NexVerse-Encrypted-Chat-Application/raw/main/frontend/public/favicon1.png)](https://nexverse-com.vercel.app/)
 
-**[→ Find me on NexVerse](https://nexverse-net.onrender.com/)**
+**[→ Find me on NexVerse](https://nexverse-com.vercel.app/)**
 
 </div>
 
