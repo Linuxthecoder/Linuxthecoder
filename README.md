@@ -62,13 +62,13 @@ Quote     : "Code is poetry. Exploits are art. And the system... is mine to mast
 
 ```json
 {
-  "languages"     : ["Python", "C", "C++", "JavaScript", "Bash"],
-  "ai_ml"         : ["TensorFlow", "Transformers", "Scikit-Learn", "LLM Integration", "Prompt Engineering"],
-  "cybersecurity" : ["Nmap", "Metasploit", "Burp Suite", "Hydra", "Wireshark", "OSINT", "Social Engineering"],
-  "backend"       : ["Node.js", "Express.js", "MongoDB", "Redis (Upstash)", "Convex", "REST APIs", "SSE Streaming"],
-  "frontend"      : ["React", "Vite", "Next.js", "IFC.js", "Three.js"],
-  "infrastructure": ["Cloudflare", "Render", "Vercel", "Clerk Auth", "Rate Limiting", "API Gateway Design"],
-  "environments"  : ["Kali Linux", "Parrot OS", "BlackArch", "Windows", "Git", "VS Code", "Vim"]
+  "languages"     : ["Python", "C", "C++", "JavaScript", "Bash"..],
+  "ai_ml"         : ["TensorFlow", "Transformers", "Scikit-Learn", "LLM Integration", "Prompt Engineering"..],
+  "cybersecurity" : ["Nmap", "Metasploit", "Burp Suite", "Hydra", "Wireshark", "OSINT", "Social Engineering"..],
+  "backend"       : ["Node.js", "Express.js", "MongoDB", "Redis (Upstash)", "Convex", "REST APIs", "SSE Streaming"..],
+  "frontend"      : ["React", "Vite", "Next.js", "IFC.js", "Three.js.."],
+  "infrastructure": ["Cloudflare", "Render", "Vercel", "Clerk Auth", "Rate Limiting", "API Gateway Design"..],
+  "environments"  : ["Kali Linux", "Parrot OS", "Windows", "Git", "VS Code", "Vim"..]
 }
 ```
 
