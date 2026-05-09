@@ -91,11 +91,7 @@ Quote     : "Code is poetry. Exploits are art. And the system... is mine to mast
 ## `$ cat stats.md`
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Linuxthecoder&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=3AF7F3&icon_color=00FFB2&text_color=ffffff)
-&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linuxthecoder&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=3AF7F3&text_color=ffffff)
-
+  <img src="https://streak-stats.demolab.com?user=Linuxthecoder&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
