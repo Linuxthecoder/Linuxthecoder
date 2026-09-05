@@ -102,7 +102,7 @@ Quote     : "Code is poetry. Exploits are art. And the system... is mine to mast
 
 *I don't do Twitter. I built my own network.*
 
-[![NexVerse](https://github.com/Linuxthecoder/NexVerse-Encrypted-Chat-Application/raw/main/frontend/public/favicon1.png)](https://nexverse-com.vercel.app/)
+[![NexVerse](https://github.com/Linuxthecoder/website-assets/blob/main/favicon1.png)](https://nexverse-com.vercel.app/)
 
 **[→ Find me on NexVerse](https://nexverse-com.vercel.app/)**
 
