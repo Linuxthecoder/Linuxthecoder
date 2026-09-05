@@ -15,7 +15,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-3AF7F3?style=for-the-badge&logo=vercel&logoColor=black)](https://muhammaddev.vercel.app/)
 [![NexVerse](https://img.shields.io/badge/NexVerse-Connect-00FFB2?style=for-the-badge&logo=matrix&logoColor=black)](https://nexverse-com.vercel.app/)
-[![Aura AI](https://img.shields.io/badge/Aura_AI-Early_Access-00D4AA?style=for-the-badge&logoColor=black)](https://aura-early-access.onrender.com)
+[![Aura AI](https://img.shields.io/badge/Aura_AI-Early_Access-00D4AA?style=for-the-badge&logoColor=black)](https://neoxraai-preview-com.vercel.app/)
 [![Nexora](https://img.shields.io/badge/Nexora-CEO-FF4C60?style=for-the-badge&logoColor=white)](https://nexora-com.onrender.com/index.html)
 
 </div>
